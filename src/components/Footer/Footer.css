@@ -1,0 +1,44 @@
+.foot-1 {
+    color: white;
+    background-color: black;
+}
+.container {
+    display: flex;
+    margin-left: 120px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.order-list {
+    list-style-type: none;
+    margin-top: 10px;
+    font-size: 12px;
+}
+.logo {
+    margin-top: 40px;
+}
+
+.list {
+    display: flex;
+}
+input {
+    height: 30px;
+    border-radius: 20px;
+    border: none;
+}
+.order {
+    margin-left: 150px;
+}
+.text-1 {
+    margin-left: 110px;
+}
+.but1 {
+    width: 60px;
+    height: 35px;
+    margin-left: 15px;
+}
+.foothead {
+    margin-top: 20px;
+}
+.bi {
+    padding-left: 10px;
+}

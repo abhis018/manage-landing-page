@@ -3,7 +3,7 @@
     margin-top: 40px;
     margin-left: 120px;
 }
-ul {
+.ul {
     margin-left: 110px;
     font-size: 13px;
     margin-top: 22px;
@@ -12,7 +12,7 @@ ul {
     margin-left: 200px;
     margin-top: 15px;
 }
-li {
+.li {
     display: inline;
     list-style-type: none;
     margin-left: 30px;
@@ -47,8 +47,86 @@ button {
 }
 
 .h4 {
-    margin-right: 150px;
+    margin-right: 200px;
 }
 .b2 {
     margin-top: 20px;
+}
+
+.head2 {
+    display: flex;
+    margin-top: 100px;
+    margin-left: 120px;
+    margin-right: 80px;
+}
+
+.box2 {
+    margin-left: 100px;
+}
+
+.but {
+    width: 70px;
+    margin-top: 15px;
+}
+
+.line {
+    display: flex;
+    margin-left: 50px;
+}
+
+.upper-head {
+    margin-left: 30px;
+}
+
+.lower-head {
+    margin-left: 150px;
+    margin-right: 70px;
+}
+.box-lower {
+    margin-right: 100px;
+}
+
+.dp {
+    height: 50px;
+}
+
+.head3 {
+    display: flex;
+    text-align: center;
+    margin-top: 70px;
+}
+.head-3 {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.box {
+    background-color: rgb(248, 245, 248);
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.b3 {
+    margin-left: 45%;
+    margin-top: 70px;
+}
+
+.head4 {
+    display: flex;
+    margin-top: 70px;
+    background-color: hsl(12, 88%, 59%);
+    color: white;
+}
+
+.foot {
+    margin-left: 120px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.b4 {
+    margin-left: 500px;
+    margin-top: 100px;
+    background-color: white;
+    color: hsl(12, 88%, 59%);
+    font-weight: bold;
 }
